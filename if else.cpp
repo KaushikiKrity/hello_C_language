@@ -1,5 +1,15 @@
 // kkk.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//Given a positive integer denoting , do the following:
+         
+        If , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
+       If 1<=n<=9 , print Greater than 9.
+        Input Format
+        A single integer denoting n
+        Constraints
+      Output Format
+        If n>9 , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead
+
 
 #include <iostream>
 
