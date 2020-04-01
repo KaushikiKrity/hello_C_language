@@ -1,5 +1,7 @@
 ﻿// sup.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//Select the type of circle you want and input the data asked. Then check for a point whether it lies inside , on or outside ethe circle.
+
 #include <iostream>
 #include <math.h>
 
