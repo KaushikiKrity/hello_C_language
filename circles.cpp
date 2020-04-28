@@ -10,7 +10,7 @@ int main()
 {
 	int n;
 	printf("Enter 1 for cirlces whose centre lies on the origin\neEnter 2 for circles whose centre lies on your chosen point\nEnter 3 for using cirlce equation in general form\n  ");
-	scanf_s("%d", &n);
+	scanf("%d", &n);
 
 	switch (n)
 	{
@@ -19,11 +19,11 @@ int main()
 		int r, x, y, w;
 
 		printf("we are using circle whose centre lies on the origin \n equation of the circle = x^2 + y^2 = r^2 \n enter the radius of the circle \n");
-		scanf_s("%d", &r);
+		scanf("%d", &r);
 		w = r * r;
 		printf("euation of the circle is = x^2+y^2 = %d \n", w);
 		printf("enter the value of point (x,y)to be checked\n");
-		scanf_s("%d%d", &x, &y);
+		scanf("%d%d", &x, &y);
 		if ((x * x + y * y) == w)
 			printf("the point lies in the circle \n");
 		else if ((x * x + y * y) < w)
@@ -40,7 +40,7 @@ int main()
 
 		printf("we are using circle whose centre lies on the point you choose\n equation of the circle = (x-a)^2+(y-b)^2=r^2\n enter the radius of the circle r  and the points of the centre a and b \n");
 
-		scanf_s("%d%d%d", &k, &a, &b);
+		scanf("%d%d%d", &k, &a, &b);
 		l = k * k;
 		printf("the pounts of the centre are = %d,%d\n", a, b);
 		printf("radius of the circle =%d\n", l);
@@ -49,7 +49,7 @@ int main()
 		printf("euation of the circle is = (x-%d)^2+(y-%d)^2=%d \n", a, b, l);
 
 		printf("enter the value of point (e,g)to be checked\n");
-		scanf_s("%d%d", &e, &g);
+		scanf("%d%d", &e, &g);
 		d = e - a;
 		f = g - b;
 		if ((d * d) + (f * f) == l)
@@ -64,14 +64,14 @@ int main()
 		float v,t;
 		printf("we are using circle whose equatin is in general form\n The equation is = x^2 + y^2 + 2gx +2fy + c = 0 \n centre of the circle is(-g,-f) and radius is (g2 + f2 - c)^1/2\n");
 		printf("enter the centre of the circle and value of the constant c\n");
-		scanf_s("%d%d%d", &p, &q, &s);
+		scanf("%d%d%d", &p, &q, &s);
 		v = ((p * p )+( q * q) - s);
 		t = sqrt(v);
 		printf("the centre of circle are =%d,%d\n", p, q);
 		printf("the radiu of the circle is =%f\n", t);
 		printf("equation of the circle = x^2+y^2+(2*x*%d)+(2*y*%d)+%d=0", p, q, s);
 		printf("enter the vaue of point to be checked(m,n)\n");
-		scanf_s("%d%d", &m, &n);
+		scanf("%d%d", &m, &n);
 		if ((m * m + n * n + 2 * m * p + 2 * n * q + s) == 0)
 			printf("the point lies in the circle \n");
 		else if ((m * m + n * n + 2 * m * p + 2 * n * q + s) << 0)
