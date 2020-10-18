@@ -9,7 +9,7 @@
 int main()
 {
 	int n;
-	printf("Enter 1 for cirlces whose centre lies on the origin\neEnter 2 for circles whose centre lies on your chosen point\nEnter 3 for using cirlce equation in general form\n  ");
+	printf("Enter 1 for cirlces   whose centre lies on the origin\neEnter 2 for circles whose centre lies on your chosen point\nEnter 3 for using cirlce equation in general form\n  ");
 	scanf("%d", &n);
 
 	switch (n)
