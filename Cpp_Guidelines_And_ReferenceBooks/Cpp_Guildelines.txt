@@ -1,0 +1,42 @@
+
+Hey guys,first let me give the answer for why cpp is essential.
+
+1)C++ is an object-oriented (OO) programming language that can be very efficient. 
+2)It was the first very widely used OO language. 
+3)C++ was very important in the 90s and early 2000s.
+4)C++ is still important in game programming and embedded device programming because in C++ you can:
+5)Write programs that are very efficient in memory usage - no managed object overhead and no garbage collection pauses
+6)Write programs that are very efficient in CPU usage - this language is very close to the hardware
+7)C++ does suffer from trying to be upwards compatible to C which leads to some dangerous gaps (like the ability to corrupt memory). Conversely it provides loads of features. Some of these features can be really cool - like operator overloading (for example redefining what “+” means). This can lead to incomprehensible programs. The more recent versions of the C++ standard do improve the language, but you really need to make sure you used an understandable subset.
+
+
+Now i am going to give you some links of tutorials,or websites from which you can learn cpp.
+
+****youtube links****
+1)If you want to learn cpp in hindi then Saurabh shukla sir is the best teacher you can find online and that too for free over Youtube, you can refer to this link:https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF
+
+2)LearningLad is also a best channel on youtube for cpp:
+https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+
+*****Some important Links*****
+1) Cplusplus:
+		An amazing website for computer science students and developers to learn C++ programming language from beginning to advance level.
+		This website has good collection of C++ programming tutorials, function, class’s references, articles and forum.
+		Link: http://www.cplusplus.com/
+
+2) TutorialsPoint:
+		Tutorialspoint is top most website, which provides step by step tutorials on Computer programming languages. I would recommend learning C++ programming language from this website.
+		Link:  https://www.tutorialspoint.com/cplusplus/index.htm
+
+3) LearnCpp:
+		Learncpp is a completely free website which provides you to learn how to program in C++. Whether you have any prior programming experience or not. The tutorials on this site will teach you everything you need to know with lots of examples.
+		Link:  http://www.learncpp.com/
+
+4) MyCplus:
+		This website is developed to help everyone who wish to learn C and C++ programming language. This website provides many necessary resources like programming tutorial, source code, library references and also the discussion forum where you can post your problem.
+		Link: https://www.mycplus.com/
+
+
+5) Cprogramming:
+		This is a best site for C and C++ programming language. Which is very popular and beginner friendly. It hopes to facilitate the creation of solution that makes a world smarter.
+		Link: https://www.cprogramming.com/tutorial/c++-tutorial.html
