@@ -1,2 +1,87 @@
 # hello_C_language
 This repository contains a collection of C++ programs for beginners.
+
+
+********Guidelines for Cpp*****
+
+Hey guys,first let me give the answer for why cpp is essential.
+
+1)C++ is an object-oriented (OO) programming language that can be very efficient. 
+2)It was the first very widely used OO language. 
+3)C++ was very important in the 90s and early 2000s.
+4)C++ is still important in game programming and embedded device programming because in C++ you can:
+5)Write programs that are very efficient in memory usage - no managed object overhead and no garbage collection pauses
+6)Write programs that are very efficient in CPU usage - this language is very close to the hardware
+7)C++ does suffer from trying to be upwards compatible to C which leads to some dangerous gaps (like the ability to corrupt memory). Conversely it provides loads of features. Some of these features can be really cool - like operator overloading (for example redefining what “+” means). This can lead to incomprehensible programs. The more recent versions of the C++ standard do improve the language, but you really need to make sure you used an understandable subset.
+
+
+*****Here are some Important Points that why cpp is essential*****
+1. C++ Popularity and High Salary
+C++ is one of the most popular languages in the world. It is used by some 4.4 million developers worldwide. Also, C++ Developers are quite sought after and they hold some of the most high-paying jobs in the industry with an average base pay of $103, 035 per year.
+
+
+
+2. C++ has Abundant Library Support
+C++ has the Standard Template Library(STL) that is very useful as it helps in writing code compactly and quickly as required. It contains mainly four components i.e. algorithms, containers, functions, and iterators.
+
+The algorithms are of different types such as sorting, searching, etc. The containers store classes to implement different data structures that are commonly used such as stacks, queues, hash tables, vectors, sets, lists, maps, etc.
+The functors allow the working of the associated function to be customized with the help of the parameters passed. Also, the iterators are used for working upon a sequence of values.
+
+3. C++ has a Large Community
+There is a large online community of C++ users and experts that is particularly helpful in case any support is required. There is a lot of resources like GeeksforGeeks etc. available on the internet regarding C++. Some of the other online resources for C++ include StackOverflow, cppreference.com, Standard C++, etc.
+
+4. C++ In Databases
+There are many modern day databases such as MySQL, MongoDB, MemSQL, etc. that are written in C++. This is because C++ is quite modern and it supports features like exceptions, lambda expressions, etc. Many of the databases that are written in C++ are used in almost all of the in-use applications such as YouTube, WordPress, Twitter, Facebook, etc.
+
+5. C++ In Operating Systems
+All the major operating systems such as Windows, Linux, Android, Ubuntu, iOS, etc. are written in a combination of C and C++. The Windows applications are written in C++, while Android applications are written in Java along with C/C++ with non-default run-times for C++ support. Also, C++ can be used to develop the core of the applications in iOS.
+In general, C or C++ are used in operating systems because of the speed and strongly typed nature of these languages.
+
+6. C++ In Compilers
+C++ is closer to the hardware level and is a comparatively low-level language. Because of this reason, it is used in many compilers as a backend programming language. An example of this is the GNU Compiler Collection (GCC) which is currently written mostly in C++ along with C.
+
+7. C++ In Web Browsers
+A lot of web browsers are developed using C++ such as Chrome, Firefox, Safari, etc. Chrome contains C++ in the rendering engine, JavaScript engine, and the UI. Firefox uses mainly in the rendering engine and a little in the UI. Safari also uses C++ in the rendering engine and JavaScript engine.
+
+All these web browsers and more use C++, particularly in the rendering engines because it provides the required speed that is necessary for the rendering engines since they need to display the content at an accelerated rate.
+
+8. C++ In Graphics
+Applications requiring graphics such as digital image processing, computer vision, screen recording programs, etc. use C++ due to its high speed. This can also include different games that have graphics as a big part of their structure.
+
+9. C++ In Embedded Systems
+C++ is closer to the hardware level and so it is quite useful in embedded systems as the software and hardware in these are closely coupled. There are many embedded systems that use C++ such as smart watches, MP3 players, GPS systems, etc.
+
+10. C++ is Portable
+Programs developed in C++ can be moved from one platform to another. This is one of the main reasons that applications requiring multi-platform or multi-device development often use C++.
+
+Now i am going to give you some links of tutorials,or websites from which you can learn cpp.
+
+****youtube links****
+1)If you want to learn cpp in hindi then Saurabh shukla sir is the best teacher you can find online and that too for free over Youtube, you can refer to this link:https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF
+
+2)LearningLad is also a best channel on youtube for cpp:
+https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+
+*****Some important Links*****
+1) Cplusplus:
+		An amazing website for computer science students and developers to learn C++ programming language from beginning to advance level.
+		This website has good collection of C++ programming tutorials, function, class’s references, articles and forum.
+		Link: http://www.cplusplus.com/
+
+2) TutorialsPoint:
+		Tutorialspoint is top most website, which provides step by step tutorials on Computer programming languages. I would recommend learning C++ programming language from this website.
+		Link:  https://www.tutorialspoint.com/cplusplus/index.htm
+
+3) LearnCpp:
+		Learncpp is a completely free website which provides you to learn how to program in C++. Whether you have any prior programming experience or not. The tutorials on this site will teach you everything you need to know with lots of examples.
+		Link:  http://www.learncpp.com/
+
+4) MyCplus:
+		This website is developed to help everyone who wish to learn C and C++ programming language. This website provides many necessary resources like programming tutorial, source code, library references and also the discussion forum where you can post your problem.
+		Link: https://www.mycplus.com/
+
+
+5) Cprogramming:
+		This is a best site for C and C++ programming language. Which is very popular and beginner friendly. It hopes to facilitate the creation of solution that makes a world smarter.
+		Link: https://www.cprogramming.com/tutorial/c++-tutorial.html
+
