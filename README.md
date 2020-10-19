@@ -1,4 +1,4 @@
-# hello_C_language
+# Get started with C++
 This repository contains a collection of C++ programs for beginners.
 
 This repository is accepting genuine Pull requests for Hacktoberfest 2020 .
