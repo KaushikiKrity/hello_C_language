@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-    class Solution
-    {
+class Solution
+{
     public:
         int threeSumClosest(vector<int>& nums, int target) {
             int min=100000;
@@ -29,7 +29,7 @@ using namespace std;
             }
             return sum;
         }
-    };
+};
 
 int main()
 {

@@ -1,9 +1,4 @@
-
-
-
-
-
-
+///Activity selection program
 #include<iostream>
 #include<utility>
 #include<algorithm>
