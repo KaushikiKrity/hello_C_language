@@ -1,0 +1,86 @@
+*******Complete Roadmap to Learn C++********
+
+        C++, developed by Bjarne Stroustrup, is a general-purpose programming language and considered as an advanced version of the C programming language. 
+It offers the rich library support in the form of Standard Template Library. The language is widely used in various GUI platforms, Cloud/Distributed Systems, Operating Systems, real-time simulations, etc. 
+Moreover, as C++ is an object-oriented programming language, it allows you to implement real-time problems through OOPS concepts. 
+Here in this article, let’s discuss a thorough curriculum or roadmap that one should follow to learn C++ Language in 20 days!
+
+1. Introduction to C++ Programming (Day: 1)
+
+Introduction to C++ Programming Language
+Setting up C++ Development Environment
+C vs C++
+C++ vs JAVA
+First C++ Program: Hello World
+2. Learn DataTypes, Variables & Operators (Day: 2-3)
+Now you need to know about the building blocks of C++ programming – DataTypes, Variables & Operators. You need to get a thorough understanding of data types and how 
+they are used, what are variables, how they are declared and initialized, the use of operators in C++, etc. It will help you to get familiar with the basic structure 
+and syntax of C++ programming. There are several other topics also to be considered here such as Reference Variables, Operator Overloading, Optional Parameters, 
+and others.
+Data Types | Variables in C++
+Operators in C++
+Reference Variable in C++
+Operator Overloading in C++
+Default Arguments in C++
+
+
+3. Learn Conditional & Control Statements (Day: 4-5)
+Okay, now move to the control flow statements of the C++ programming language. Precisely, control flow statements concerns with the concepts like repeated execution of 
+a block of statements – Loops, execution of code based on decision – Decision-Making Statements, etc. You need to cover these concepts thoroughly such as all types of 
+loops like For Loop, While Loop, Do While loop, etc. and similarly all decision-making statements like if, if..else, nested if, etc. There are several other topics as
+ well that concern with the control flow statements in C++ programming such as Jump Statements, Switch Statements, etc.
+
+Loops in C++
+Decision Making in C++
+Switch Statements in C++
+Continue Statement | Break Statement
+Execute both if and else statements in C++
+
+
+4. Understand Arrays, Strings & Pointers in C++ (Day: 6-8)
+Once you’ll get done with the datatypes, variables, and other topics, now you’re required to understand the Arrays & Strings concepts in C++. 
+An Array in C++ is used to store similar types of elements and Strings are used to store text or sequence of characters. Moreover, you need to learn about Pointers as 
+well that is used for storing the address of another variable. Also, there are several other crucial topics such as Namespaces, Wild Pointers in C++, etc. that can be 
+considered.
+
+Arrays | Strings in C++
+Pointers in C++
+Pointers vs References in C++
+Namespaces in C++
+Wild Pointers in C++
+
+
+5. Go Through Functions & OOPs Concepts in C++ (Day: 9-12)
+Now, it comes the most crucial part of the C++ programming journey: Functions & OOPS Concepts in C++. 
+You need to know about the Functions in C++ which is a set of statements that is created to perform specific tasks. 
+You have to learn about function declaration, function overloading, and other topics that concern with functions in C++. 
+Meanwhile, you’re required to understand the Object-Oriented programming nature of C++ in-depth with various concepts such as Class, Objects, 
+Inheritance, Polymorphism, Abstraction, and Encapsulation, etc.
+
+Functions in C++
+Function Overloading in C++
+C++ Classes and Objects
+Object-Oriented Programming in C++
+Constructors in C++
+6. Learn I/O Streams, Dynamic Memory, & STL in C++ (Day: 13-16)
+Okay, let’s dive deeper into the world of C programming. Now, you’re required to understand several underlying concepts such as I/O Streams & File Handling in C++, 
+Dynamic memory allocation in C/C++, etc. You’re also required to look upon Standard Template Library (STL) in C++ which a renowned feature of the language. 
+In general, STL in C++ is a set of C++ template classes that provide general programming data structures and functions like stacks, arrays, etc. Moreover, 
+you must have the knowledge of template classes to work on STL in C++.
+
+Files and Streams in C++
+Dynamic Memory Allocation in C++
+malloc() vs new in C++
+Templates in C++
+C++ Standard Template Library (STL)
+7. Understand Exception Handling, Signal Handling & Multithreading in C++ (Day: 17-20)
+Furthermore, you’re required to fetch up the things with some more advanced topics like Exception Handling, Signal Handling, Multithreading in C++, etc. In short, Exception Handlings tends to deal with the code that can throw an exception or error and Signal Handling concerns with the Signals which force an OS to stop its in-progress task and address the task for which the interrupt has been sent. Moreover, you’re required to use POSIX Threads for multithreading in C++.
+
+Exception Handling in C++
+Signal Handling in C++
+Stack Unwinding
+Multithreading in C++
+POSIX Threads
+
+
+credits : https://www.geeksforgeeks.org/learn-cpp-programming-step-by-step-a-20-day-curriculum/
