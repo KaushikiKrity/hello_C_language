@@ -7,5 +7,3 @@ This repository is accepting genuine Pull requests for Hacktoberfest 2020 .
  
  NOTE : Before making PR plese confirm if the issue is assigned to you.
 
-
-I hope you will like it!
